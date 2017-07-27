@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f6ab16f7-9528-4e67-b664-725aa0452c32++3806",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f6ab16f7-9528-4e67-b664-725aa0452c32++3806" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f6ab16f7-9528-4e67-b664-725aa0452c32++3806" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82FE454B-8E7D-47C2-83DA-6E6EAA88772B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f6ab16f7-9528-4e67-b664-725aa0452c32++3806" : "SwiftProject%202\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Qismet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Qismet\/Qismet.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/centric.svn.beanstalkapp.com\/match",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f6ab16f7-9528-4e67-b664-725aa0452c32++3806"
+    }
+  ]
+}

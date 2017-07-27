@@ -1,0 +1,72 @@
+PODS:
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - CarbonKit (2.1.9)
+  - DKImagePickerController (3.5.0):
+    - DKImagePickerController/Camera (= 3.5.0)
+    - DKImagePickerController/ImageManager (= 3.5.0)
+  - DKImagePickerController/Camera (3.5.0)
+  - DKImagePickerController/ImageManager (3.5.0)
+  - FacebookCore (0.2.0):
+    - Bolts (~> 1.8)
+    - FBSDKCoreKit (~> 4.15)
+  - FacebookLogin (0.2.0):
+    - Bolts (~> 1.8)
+    - FacebookCore (~> 0.2)
+    - FBSDKCoreKit (~> 4.15)
+    - FBSDKLoginKit (~> 4.15)
+  - FBSDKCoreKit (4.17.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.17.0):
+    - FBSDKCoreKit
+  - HFCardCollectionViewLayout (0.3.2)
+  - PermissionScope (1.1.1)
+  - RAMReel (2.0.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - Sparrow/Core (1.0.1)
+  - Sparrow/Modules/RequestPermission (1.0.1):
+    - Sparrow/Core
+
+DEPENDENCIES:
+  - CarbonKit
+  - DKImagePickerController
+  - FacebookCore
+  - FacebookLogin
+  - HFCardCollectionViewLayout
+  - PermissionScope
+  - RAMReel
+  - SDWebImage (~> 3.8)
+  - Sparrow/Modules/RequestPermission (from `https://github.com/IvanVorobei/Sparrow.git`)
+
+EXTERNAL SOURCES:
+  Sparrow:
+    :git: https://github.com/IvanVorobei/Sparrow.git
+
+CHECKOUT OPTIONS:
+  Sparrow:
+    :commit: 8c5a3dcfe53f3d46788d115ecf7e310458560df2
+    :git: https://github.com/IvanVorobei/Sparrow.git
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  CarbonKit: af16a9c0d2b6c908a5985fe4633424d38c9bfc0a
+  DKImagePickerController: 0fccc62b047a6b0c64d81e7b64a3deab22b86839
+  FacebookCore: 2cb3f0fbff218e9d3119cec84bae983b232412de
+  FacebookLogin: c9d606504735780a9e3002465a615512e0a691a5
+  FBSDKCoreKit: 30a21d2d7b92984b3d80497113433c00824c35e9
+  FBSDKLoginKit: 42b7129ac0373ca99eaf4cbebf4d07bd42371f59
+  HFCardCollectionViewLayout: 7cb1608dca7acf9306d50e2a5cb52613d6d1dd38
+  PermissionScope: a30c16e015779ba27c97c124e7539e27b5829de2
+  RAMReel: f9dd6643aaa001b52c55d5fbe4b42170dd271298
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  Sparrow: 4b7826e69656f4745b0b4f74afadefa4f19cb9ee
+
+PODFILE CHECKSUM: af32c67d735d0de087c7f56b7d5053c0788baddd
+
+COCOAPODS: 1.2.0

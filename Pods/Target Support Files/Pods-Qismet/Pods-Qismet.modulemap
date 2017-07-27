@@ -1,0 +1,6 @@
+framework module Pods_Qismet {
+  umbrella header "Pods-Qismet-umbrella.h"
+
+  export *
+  module * { export * }
+}
